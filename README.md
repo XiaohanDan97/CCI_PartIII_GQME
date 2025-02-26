@@ -1,4 +1,4 @@
-# CCI_PartIII_GQME
+# qGQME_TTTFD tutorial repository
 
 This repository corresponds to Part III of a series of tutorials about simulating 
 quantum dynamics on quantum computers. 
